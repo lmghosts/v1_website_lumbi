@@ -11,9 +11,6 @@ tech:
   - Product Testing
 ---
 
-<p>
-Led the design and development of the Roam Move, an electric bus specifically engineered for urban mobility in Sub-Saharan Africa (the matatu sector). The project navigated unique design challenges including passenger capacity optimization, robust construction for variable road conditions, and modular battery solutions suited to limited charging infrastructure. 
-</p>
-<p>
+Led the design and development of the Roam Move, an electric bus specifically engineered for urban mobility in Sub-Saharan Africa (the matatu sector). The project navigated unique design challenges including passenger capacity optimization, robust construction for variable road conditions, and modular battery solutions suited to limited charging infrastructure.
+
 15+ Units produced with over 200 pre-orders.
-</p>
