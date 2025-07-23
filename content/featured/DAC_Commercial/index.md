@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Direct Air Capture - Commercial Plant'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://www.sirona.tech/updates/sirona-technologies-unveils-their-first-commercial-container'
+cta: 'https://www.sirona.tech/updates/sirona-technologies-unveils-their-first-commercial-container'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Mechatronics Engineering
+  - Automation
+  - Wiring & Harnesses
+  - Fabrication
 ---
 
 Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
