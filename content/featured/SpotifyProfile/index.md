@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'The Roam Move'
 cover: './demo.png'
 github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://www.roam-electric.com/electric-bus'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Product Management 
+  - Supplier Management
+  - Battery Design 
+  - Product Testing 
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Designed and built for rugged routes and high passenger turnover. Turning the page and transforming the matatu sector with a smart, durable, and cost-effective electric alternative. 
