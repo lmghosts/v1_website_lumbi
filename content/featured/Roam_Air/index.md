@@ -3,7 +3,7 @@ date: '1'
 title: 'The Roam Air'
 cover: './halcyon.png'
 external: 'https://www.roam-electric.com/motorcycles'
-cta:'https://www.roam-electric.com/'
+cta: 'https://www.roam-electric.com/'
 tech:
   - Frame Design
   - Battery Layout
