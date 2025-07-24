@@ -2,7 +2,7 @@
 date: '2'
 title: 'The Roam Move'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
+github: ''
 external: 'https://www.roam-electric.com/electric-bus'
 tech:
   - Product Management
