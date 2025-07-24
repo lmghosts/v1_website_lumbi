@@ -1,7 +1,7 @@
 ---
 date: '2020-02'
 title: 'Mechatronics Engineer, R&D'
-company: 'Roam Electric'
+company: 'Roam'
 location: 'Nairobi, Kenya'
 range: 'February 2020 - February 2025'
 url: 'https://www.roam-electric.com/'

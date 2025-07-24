@@ -1,7 +1,7 @@
 ---
 date: '2018-09'
 title: 'Mechatronics Engineer'
-company: 'Kenya Pipeline Company'
+company: 'Kenya Pipeline'
 location: 'Nairobi, Kenya'
 range: 'September 2018 - February 2019'
 url: 'https://www.kpc.co.ke/'

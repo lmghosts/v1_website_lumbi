@@ -1,7 +1,7 @@
 ---
 date: '2024-04'
 title: 'Product Lead'
-company: 'Roam Electric'
+company: 'Roam'
 location: 'Nairobi, Kenya.'
 range: 'April 2024 - November 2024'
 url: 'https://www.roam-electric.com/'

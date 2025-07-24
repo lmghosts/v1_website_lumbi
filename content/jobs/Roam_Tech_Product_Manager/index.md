@@ -1,7 +1,7 @@
 ---
 date: '2022-03'
 title: 'Technical Product Manager'
-company: 'Roam Electric'
+company: 'Roam'
 location: 'Nairobi, Kenya'
 range: 'March 2022 - April 2024'
 url: 'https://www.roam-electric.com'
