@@ -5,7 +5,7 @@ module.exports = {
     title: 'Lumbi Muchui',
     description:
       'Lumbi Muchui is a dedicated climate tech engineer with a strong background in innovative and sustainable solutions.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://thel2.studio', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@lumbi_muchui',
   },
@@ -147,12 +147,6 @@ module.exports = {
             },
           },
         ],
-      },
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: 'UA-45666519-2',
       },
     },
   ],

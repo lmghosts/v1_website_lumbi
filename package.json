@@ -1,11 +1,11 @@
 {
-  "name": "v4",
+  "name": "lumbi-portfolio",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Lumbi Muchui",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/lmghosts/v1_website_lumbi"
   },
   "keywords": [
     "gatsby"
