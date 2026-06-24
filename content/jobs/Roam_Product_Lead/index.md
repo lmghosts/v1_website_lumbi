@@ -7,5 +7,7 @@ range: 'April 2024 - November 2024'
 url: 'https://www.roam-electric.com/'
 ---
 
-- Led the cost optimization project that reduced the production cost of the Roam Air electric motorcycle by over 50%, enabling a price drop from $4,500 to $2,100 and significantly increasing market accessibility and sales potential across Sub-Saharan Africa.
-- Collaborated with cross-functional teams, translated research insights into impactful product features, optimized vehicle performance, and ensured seamless integration with Roam's energy and charging infrastructure.
+Took over end-to-end product development across Roam's full portfolio, including electric motorcycles, two electric bus platforms, and electric conversion kits.
+
+- Led the Roam Air motorcycle cost-optimisation programme, reducing unit production cost by 53%, from $4,500 to $2,100. Took the product from loss-making to break-even before handover, with a clear roadmap to profitability that expanded accessibility across Sub-Saharan African markets.
+- Led product-development activities across Roam's portfolio, coordinating cross-functional teams from research and engineering through vehicle performance, energy, and charging-infrastructure integration.
