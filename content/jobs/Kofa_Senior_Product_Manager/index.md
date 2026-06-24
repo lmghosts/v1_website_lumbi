@@ -1,7 +1,7 @@
 ---
 date: '2025-09'
 title: 'Senior Product Manager - Hardware'
-company: 'Kofa Technologies'
+company: 'Kofa'
 location: 'Accra, Ghana and Nairobi, Kenya (Hybrid)'
 range: 'September 2025 - Present'
 url: 'https://kofa.co/'
