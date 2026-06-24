@@ -3,7 +3,7 @@ date: '2024-11'
 title: 'Lead Engineer'
 company: 'Sirona Tech'
 location: 'Brussels, Belgium'
-range: 'November 2024 - June 2025'
+range: 'November 2024 - July 2025'
 url: 'https://www.sirona.tech/'
 ---
 
