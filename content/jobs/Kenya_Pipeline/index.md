@@ -7,5 +7,7 @@ range: 'September 2018 - February 2019'
 url: 'https://www.kpc.co.ke/'
 ---
 
-- Tasked with pipeline and tank structural integrity management while I was posted in the Corrosion Control Department.
-- Participated in the commissioning of various projects in the company including the opening of newly installed oil line to the international airport in Nairobi (Jomo Kenyatta International Airport).
+Supported pipeline and tank structural-integrity management within Kenya Pipeline's Corrosion Control Department.
+
+- Managed pipeline and tank structural-integrity responsibilities while posted to the Corrosion Control Department.
+- Participated in commissioning projects across the company, including opening the newly installed oil line to Jomo Kenyatta International Airport in Nairobi.
