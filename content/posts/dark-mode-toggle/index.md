@@ -11,7 +11,7 @@ tags:
 
 Dark mode toggle without the flash of default theme. Important bits:
 
-- CSS variables for color theming
+- CSS variables for colour theming
 - Put `data-theme` attribute on `<html>`, not `<body>`, so we can run the JS before the DOM finishes rendering
 - Run local storage check in the `<head>`
 - JS for toggle button click handler can come after render

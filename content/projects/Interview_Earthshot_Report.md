@@ -11,4 +11,4 @@ company: 'Roam Electric'
 showInProjects: true
 ---
 
-Watch as I take the Earthsot report through the impact of the Roam Air and how we are making EVs by Africans, for Africans, to clean up our air.
+Watch as I take the Earthshot report through the impact of the Roam Air and how we are making EVs by Africans, for Africans, to clean up our air.

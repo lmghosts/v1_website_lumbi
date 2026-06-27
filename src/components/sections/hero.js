@@ -65,13 +65,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a mechatronics engineer specializing in designing and building exceptional hardware and
-        product experiences. Currently, I’m focused on building functional, human-centered products
-        at{' '}
-        <a href="https://thel2.studio/" target="_blank" rel="noreferrer">
-          the L2 Studios
-        </a>
-        .
+        Senior hardware product leader with six years across EV powertrain, battery systems, and
+        climate-tech hardware. I've taken multiple vehicle classes through full NPI gates and turned
+        loss-making products into profitable ones — most recently a 53% COGS reduction on
+        Sub-Saharan Africa's first locally designed electric motorcycle. Currently leading hardware
+        at Kofa. Open to senior hardware PM roles in the UK and EU.
       </p>
     </>
   );

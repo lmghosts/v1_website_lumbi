@@ -11,4 +11,4 @@ company: 'Roam Electric'
 showInProjects: true
 ---
 
-We powered Joel Amboka through this epic journey demonstrating the potential of the Roam Air for every day bikers. This enabled us to showcase how Roam Air’s portable charging feature, battery ownership, and dual-battery system are designed to empower [boda boda riders](https://www.roam-electric.com/newsletter-border-to-border) to ride with no limits.
+We powered Joel Amboka through this epic journey demonstrating the potential of the Roam Air for everyday bikers. This enabled us to showcase how Roam Air’s portable charging feature, battery ownership, and dual-battery system are designed to empower [boda boda riders](https://www.roam-electric.com/newsletter-border-to-border) to ride with no limits.

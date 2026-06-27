@@ -11,4 +11,4 @@ company: 'Roam Electric'
 showInProjects: true
 ---
 
-Design collaboration with Sandstorm, a bespoke leather goods manufacturer, to produce a limited run of the Roam Air. The design features a new color way, Limited Edition decals, reduced weight, and a bespoke Sandstorm leather seat. Check out the [Product Trailer](https://www.youtube.com/watch?v=nVQXWqcuRXk).
+Design collaboration with Sandstorm, a bespoke leather goods manufacturer, to produce a limited run of the Roam Air. The design features a new colourway, Limited Edition decals, reduced weight, and a bespoke Sandstorm leather seat. Check out the [Product Trailer](https://www.youtube.com/watch?v=nVQXWqcuRXk).
