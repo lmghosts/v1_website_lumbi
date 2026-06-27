@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Lumbi Muchui',
     description:
-      'Lumbi Muchui is a dedicated climate tech engineer with a strong background in innovative and sustainable solutions.',
+      'Senior hardware product leader with six years across EV, battery, and climate-tech hardware. Three automotive products developed through full NPI, multiple battery platforms shipped, and direct-air-capture commercialisation led across Roam Electric, Sirona Technologies, and Kofa.',
     siteUrl: 'https://thel2.studio', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@lumbi_muchui',

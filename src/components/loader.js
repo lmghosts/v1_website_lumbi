@@ -15,7 +15,11 @@ const StyledLoader = styled.div`
   width: 100%;
   height: 100%;
   background-color: var(--dark-navy);
+  opacity: ${props => (props.isExiting ? 0 : 1)};
+  visibility: ${props => (props.isExiting ? 'hidden' : 'visible')};
+  pointer-events: ${props => (props.isExiting ? 'none' : 'auto')};
   z-index: 99;
+  transition: opacity 200ms var(--easing), visibility 200ms var(--easing);
 
   .logo-wrapper {
     width: max-content;
@@ -38,10 +42,14 @@ const StyledLoader = styled.div`
 
 const Loader = ({ finishLoading }) => {
   const [isMounted, setIsMounted] = useState(false);
+  const [isExiting, setIsExiting] = useState(false);
 
   const animate = () => {
     const loader = anime.timeline({
-      complete: () => finishLoading(),
+      complete: () => {
+        setIsExiting(true);
+        setTimeout(() => finishLoading(), 200);
+      },
     });
 
     loader
@@ -65,13 +73,6 @@ const Loader = ({ finishLoading }) => {
         easing: 'easeInOutQuart',
         opacity: 0,
         scale: 0.1,
-      })
-      .add({
-        targets: '.loader',
-        duration: 200,
-        easing: 'easeInOutQuart',
-        opacity: 0,
-        zIndex: -1,
       });
   };
 
@@ -82,7 +83,7 @@ const Loader = ({ finishLoading }) => {
   }, []);
 
   return (
-    <StyledLoader className="loader" isMounted={isMounted}>
+    <StyledLoader className="loader" isMounted={isMounted} isExiting={isExiting}>
       <Helmet bodyAttributes={{ class: `hidden` }} />
 
       <div className="logo-wrapper">
