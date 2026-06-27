@@ -52,6 +52,7 @@ const StyledCredit = styled.div`
 
   .mint-link {
     color: var(--green);
+    padding: 0;
   }
 
   .github-stats {
@@ -97,7 +98,7 @@ const Footer = () => {
             rel="noopener noreferrer">
             Brittany Chiang
           </a>
-          , Built by{' '}
+          {', Built by '}
           <a
             className="mint-link"
             href="https://www.linkedin.com/in/lumbi-muchui"
