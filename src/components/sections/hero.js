@@ -73,7 +73,8 @@ const Hero = () => {
         climate-tech hardware.
       </p>
       <p>
-        <span className="mint-accent">Three automotive products developed through full NPI</span>,{' '}
+        <span className="mint-accent">Three automotive products</span> developed through{' '}
+        <span className="mint-accent">full NPI</span>,{' '}
         <span className="mint-accent">multiple battery platforms shipped</span>, and{' '}
         <span className="mint-accent">direct-air-capture commercialisation</span> led — across Roam
         Electric, Sirona Technologies, and Kofa.
