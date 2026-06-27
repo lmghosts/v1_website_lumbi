@@ -50,6 +50,11 @@ const StyledCredit = styled.div`
     padding: 10px;
   }
 
+  .mint-link {
+    color: var(--green);
+    padding: 0;
+  }
+
   .github-stats {
     margin-top: 10px;
 
@@ -84,7 +89,24 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabIndex="-1">
-        <div>Built by Lumbi Muchui</div>
+        <div>
+          Designed by{' '}
+          <a
+            className="mint-link"
+            href="https://brittanychiang.com/"
+            target="_blank"
+            rel="noopener noreferrer">
+            Brittany Chiang
+          </a>
+          {', Built by '}
+          <a
+            className="mint-link"
+            href="https://www.linkedin.com/in/lumbi-muchui"
+            target="_blank"
+            rel="noopener noreferrer">
+            Lumbi Muchui
+          </a>
+        </div>
       </StyledCredit>
     </StyledFooter>
   );

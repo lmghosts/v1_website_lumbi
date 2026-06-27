@@ -4,6 +4,7 @@ title: 'Senior Product Manager - Hardware'
 company: 'Kofa'
 location: 'Accra, Ghana and Nairobi, Kenya (Hybrid)'
 range: 'September 2025 - Present'
+reporting: 'Reporting to the CEO'
 url: 'https://kofa.co/'
 ---
 

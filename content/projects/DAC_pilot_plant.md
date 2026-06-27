@@ -11,4 +11,4 @@ company: 'Sirona Technologies'
 showInProjects: true
 ---
 
-The deployment of Sirona's Direct Air Capture Pilot plant in Gilgil, Nakuru County. This is the fourth iteration of Sirona's DAC technology with a rated capacity of 500 tpy of CO2.
+The deployment of Sirona's Direct Air Capture Pilot plant in Lake Elementaita, Nakuru County. This is the fourth iteration of Sirona's DAC technology with a rated capacity of 500 tpy of CO2.

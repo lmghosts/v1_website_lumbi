@@ -40,6 +40,10 @@ const StyledHeroSection = styled.section`
     max-width: 540px;
   }
 
+  .mint-accent {
+    color: var(--green);
+  }
+
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
@@ -65,14 +69,17 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a mechatronics engineer specializing in designing and building exceptional hardware and
-        product experiences. Currently, I’m focused on building functional, human-centered products
-        at{' '}
-        <a href="https://thel2.studio/" target="_blank" rel="noreferrer">
-          the L2 Studios
-        </a>
-        .
+        Senior hardware product leader with six years across EV powertrain, battery systems, and
+        climate-tech hardware.
       </p>
+      <p>
+        <span className="mint-accent">Three automotive products</span> developed through{' '}
+        <span className="mint-accent">full NPI</span>,{' '}
+        <span className="mint-accent">multiple battery platforms shipped</span>, and{' '}
+        <span className="mint-accent">direct-air-capture commercialisation</span> led — across Roam
+        Electric, Sirona Technologies, and Kofa.
+      </p>
+      <p>Open to senior hardware PM roles.</p>
     </>
   );
   const five = (

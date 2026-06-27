@@ -157,7 +157,21 @@ const StyledTabPanel = styled.div`
   }
 
   .range {
+    margin-bottom: 6px;
+    color: var(--light-slate);
+    font-family: var(--font-mono);
+    font-size: var(--fz-xs);
+  }
+
+  .reporting {
     margin-bottom: 25px;
+    color: var(--light-slate);
+    font-family: var(--font-mono);
+    font-size: var(--fz-xs);
+  }
+
+  .location {
+    margin-bottom: 6px;
     color: var(--light-slate);
     font-family: var(--font-mono);
     font-size: var(--fz-xs);
@@ -176,8 +190,11 @@ const Jobs = () => {
             frontmatter {
               title
               company
+              tab
               location
+              locationDisplay
               range
+              reporting
               url
             }
             html
@@ -250,7 +267,7 @@ const Jobs = () => {
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyDown(e)}>
           {jobsData &&
             jobsData.map(({ node }, i) => {
-              const { company } = node.frontmatter;
+              const { company, tab } = node.frontmatter;
               return (
                 <StyledTabButton
                   key={i}
@@ -262,7 +279,7 @@ const Jobs = () => {
                   tabIndex={activeTabId === i ? '0' : '-1'}
                   aria-selected={activeTabId === i ? true : false}
                   aria-controls={`panel-${i}`}>
-                  <span>{company}</span>
+                  <span>{tab || company}</span>
                 </StyledTabButton>
               );
             })}
@@ -273,7 +290,7 @@ const Jobs = () => {
           {jobsData &&
             jobsData.map(({ node }, i) => {
               const { frontmatter, html } = node;
-              const { title, url, company, range } = frontmatter;
+              const { title, url, company, range, reporting, locationDisplay } = frontmatter;
 
               return (
                 <CSSTransition key={i} in={activeTabId === i} timeout={250} classNames="fade">
@@ -295,6 +312,8 @@ const Jobs = () => {
                     </h3>
 
                     <p className="range">{range}</p>
+                    {locationDisplay && <p className="location">{locationDisplay}</p>}
+                    {reporting && <p className="reporting">{reporting}</p>}
 
                     <div dangerouslySetInnerHTML={{ __html: html }} />
                   </StyledTabPanel>

@@ -1,6 +1,6 @@
 ---
 date: '2024-11-20'
-title: 'Hosting the biggest Youtuber in Africa - Wode Maya'
+title: 'Hosting the biggest YouTuber in Africa - Wode Maya'
 github: ''
 external: 'https://www.youtube.com/watch?v=IVrk9XQaQYQ'
 tech:

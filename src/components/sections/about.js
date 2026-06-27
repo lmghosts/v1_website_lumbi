@@ -126,12 +126,14 @@ const About = () => {
   }, []);
 
   const skills = [
+    'Hardware Product Management',
+    'Battery & EV Systems',
+    'Vehicle NPI (EVT → MP)',
+    'Regulatory & Certification',
+    'COGS & Value Engineering',
+    'Supplier Coordination',
+    'Cross-functional Leadership',
     'Mechatronics',
-    'Product Design',
-    'Tech Leadership',
-    'Electronics',
-    'Agile for Hardware',
-    'Prototyping',
   ];
 
   return (
@@ -141,31 +143,30 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
+            <p>Hi, I'm Lumbi.</p>
             <p>
-              Hello! My name is Lumbi and I'm a dedicated climate tech engineer with extensive
-              experience in driving innovative and sustainable solutions. Starting as a Mechatronics
-              Engineer, I have honed my skills in product management and cross-functional leadership
-              to address complex climate challenges.
+              I lead hardware product development for EV, battery, and climate-tech companies. Six
+              years across mechatronics engineering and product management &mdash; most recently
+              taking Sub-Saharan Africa's first locally designed electric motorcycle (the Roam Air)
+              from concept to 2,500 units in production, including a 53% COGS reduction that took
+              the product from loss-making to break-even.
             </p>
             <p>
-              My journey has been defined by a commitment of excellence, from spearheading
-              initiatives that transform ideas into impactful products to fostering collaborative
-              environments where innovation thrives. Whether it's identifying emerging trends or
-              executing scalable solutions, I thrive on making a tangible difference in the industry
-              and in the world.
+              My career has wound through some demanding programmes: full NPI cycles across two
+              electric vehicles at <a href="https://www.roam-electric.com/">Roam Electric</a>, the
+              deployment of Africa's first Direct Air Capture pilot plant at{' '}
+              <a href="https://www.sirona.tech/">Sirona Technologies</a>, and now the full hardware
+              portfolio at <a href="https://www.kofa.co/">Kofa</a> &mdash; batteries, swap stations,
+              two-wheel vehicle platforms &mdash; across Kenya and Ghana. I started my career on
+              heavy industrial infrastructure: pipelines at{' '}
+              <a href="https://www.kpc.co.ke/">Kenya Pipeline Company</a>, and HV substations at{' '}
+              <a href="https://www.ketraco.co.ke/">Kenya Electricity Transmission Company</a>.
             </p>
-
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.roam-electric.com/">a fast growing automotive company </a>,{' '}
-              <a href="https://www.sirona.tech/">a CO2 Direct Air Capture start-up</a>,{' '}
-              <a href="https://www.kpc.co.ke/">a huge oil and gas corporation</a>, and{' '}
-              <a href="https://www.ketraco.co.ke/">a nation-wide utility provider</a>. My main focus
-              these days is designing and building sustainable, accessible, and inclusive hardware
-              products.
+              I'm at my best when the product is hard, the constraints are real, and the user's
+              needs are unforgiving &mdash; which describes nearly everything I've shipped in
+              Sub-Saharan Africa.
             </p>
-
-            <p>Here are some of my skills:</p>
           </div>
 
           <ul className="skills-list">
