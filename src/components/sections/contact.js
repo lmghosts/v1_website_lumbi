@@ -55,14 +55,14 @@ const Contact = () => {
 
   return (
     <StyledContactSection id="contact" ref={revealContainer}>
-      <h2 className="numbered-heading overline">What’s Next?</h2>
+      <h2 className="numbered-heading overline">What&rsquo;s Next?</h2>
 
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm currently exploring senior hardware product roles in the UK and EU — particularly in
-        mobility, battery, and climate tech. If you're hiring, collaborating on hardware, or just
-        want to talk shop, my inbox is open.
+        I'm currently exploring senior hardware product roles — particularly in mobility, battery,
+        and climate tech. If you're hiring, collaborating on hardware, or just want to talk shop, my
+        inbox is open.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
