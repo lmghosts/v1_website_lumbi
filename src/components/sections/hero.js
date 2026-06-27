@@ -66,11 +66,14 @@ const Hero = () => {
     <>
       <p>
         Senior hardware product leader with six years across EV powertrain, battery systems, and
-        climate-tech hardware. I've taken multiple vehicle classes through full NPI gates and turned
-        loss-making products into profitable ones — most recently a 53% COGS reduction on
-        Sub-Saharan Africa's first locally designed electric motorcycle. Currently leading hardware
-        at Kofa. Open to senior hardware PM roles in the UK and EU.
+        climate-tech hardware.
       </p>
+      <p>
+        Three automotive products developed through full NPI, multiple battery platforms shipped,
+        and direct-air-capture commercialisation led — across Roam Electric, Sirona Technologies,
+        and Kofa.
+      </p>
+      <p>Open to senior hardware PM roles.</p>
     </>
   );
   const five = (
