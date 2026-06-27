@@ -40,6 +40,10 @@ const StyledHeroSection = styled.section`
     max-width: 540px;
   }
 
+  .mint-accent {
+    color: var(--green);
+  }
+
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
@@ -69,9 +73,10 @@ const Hero = () => {
         climate-tech hardware.
       </p>
       <p>
-        Three automotive products developed through full NPI, multiple battery platforms shipped,
-        and direct-air-capture commercialisation led — across Roam Electric, Sirona Technologies,
-        and Kofa.
+        <span className="mint-accent">Three automotive products developed through full NPI</span>,{' '}
+        <span className="mint-accent">multiple battery platforms shipped</span>, and{' '}
+        <span className="mint-accent">direct-air-capture commercialisation</span> led — across Roam
+        Electric, Sirona Technologies, and Kofa.
       </p>
       <p>Open to senior hardware PM roles.</p>
     </>
