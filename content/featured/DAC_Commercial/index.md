@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Direct Air Capture - Commercial Plant'
 cover: './dac_commercial.png'
 external: 'https://www.sirona.tech/updates/sirona-technologies-unveils-their-first-commercial-container'
